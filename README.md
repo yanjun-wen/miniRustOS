@@ -19,7 +19,7 @@
 ## 已有参考资料
 
 - [BlogOS](https://os.phil-opp.com/)：一个易学的操作系统内核开发博客，采用Rust语言，所开发内核具备键盘和串口管理、内存管理、内核异步处理等功能；
-- [rCore-Tutorial-v3-x86_64](https://github.com/rcore-os/rCore-Tutorial-v3-x86_64)：rCore操作系统的x86-64版本
+- [rCore-Tutorial-v3-x86_64](https://github.com/rcore-os/rCore-Tutorial-v3-x86_64)：rCore操作系统的x86-64版本；
 - [Redox](https://www.redox-os.org/)：一个比较大的操作系统开发项目，采用Rust语言；
 - [rust-os-comparison](https://rustrepo.com/repo/flosse-rust-os-comparison-rust-operating-systems)：一个比较全的Rust操作系统清单及其比较。
 
